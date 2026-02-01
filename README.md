@@ -21,8 +21,9 @@ Track, manage, and explore all **RemoteEvents** and **BindableEvents** in your R
 ## Installation 🛠️
 1. Download the plugin `.rbxm` or `.rbxmx` file  
 2. Open Roblox Studio  
-3. Go to **View → Toolbox → Plugins → My Plugins → Install**  
-4. Load the plugin in your game  
+3. Go to **Explorer → Plugin → Save as local plugin**  
+4. Load the plugin in your game
+5. *Or you can just get the official version from the [Creator Store](https://github.com/foxjetstudios/event-tracker-plugin)!*
 
 ---
 
