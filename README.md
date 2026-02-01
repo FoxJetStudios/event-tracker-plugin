@@ -23,7 +23,7 @@ Track, manage, and explore all **RemoteEvents** and **BindableEvents** in your R
 2. Open Roblox Studio  
 3. Go to **Explorer → Plugin → Save as local plugin**  
 4. Load the plugin in your game
-5. *Or you can just get the official version from the [Creator Store](https://github.com/foxjetstudios/event-tracker-plugin)!*
+5. *Or you can just get the official version from the [Creator Store](https://create.roblox.com/store/asset/100479477788872/Event-Tracker)!*
 
 ---
 
