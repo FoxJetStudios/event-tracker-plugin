@@ -1,4 +1,4 @@
-# Event Tracker 🎮
+# Event Tracker ⚡️
 **By Fox Jet Studios**
 
 Track, manage, and explore all **RemoteEvents** and **BindableEvents** in your Roblox game with zero hassle. Powered by a **smart algorithm** that scans scripts to locate event listeners and firers.
