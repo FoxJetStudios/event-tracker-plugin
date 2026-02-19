@@ -1,7 +1,7 @@
 local TrackerUtils = require(script.Parent.TrackerUtils)
 local UIFactory = require(script.Parent.UIFactory)
 
-local toolbar = plugin:CreateToolbar("Fox Jet Studios")
+local toolbar = plugin:CreateToolbar("Fox Jet Studios's Plugins")
 local button = toolbar:CreateButton(
 	"Event Tracker",
 	"View and manage all your experience's events",
