@@ -201,7 +201,7 @@ function UIFactory.CreateMainWidget(plugin)
 	local widgetInfo = DockWidgetPluginGuiInfo.new(
 		Enum.InitialDockState.Float, false, false, 500, 620, 450, 420
 	)
-	local widget = plugin:CreateDockWidgetPluginGui("EventTracker", widgetInfo)
+	local widget = plugin:CreateDockWidgetPluginGuiAsync("EventTracker", widgetInfo)
 	widget.Title = "Event Tracker"
 
 	local root = Instance.new("Frame")
